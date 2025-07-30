@@ -18,7 +18,8 @@ This project is great for:
 | `part1_basic_chat.py` | Minimal working example: send one message and get a reply. |
 | `part2_functional_chat.py` | Wraps the interaction in a function and uses variables for model and config. |
 | `part3_chat_loop.py` | Adds a chat loop with memory (multi-turn conversations). |
-| `app.py` | Full chatbot with token budgeting using `tiktoken` to prevent runaway costs. |
+| `part4_final.py` | Full chatbot with token budgeting using `tiktoken` to prevent runaway costs. |
+| `oop_chatbot.py` | Full chatbot refactored to use OOP. |
 
 ---
 
